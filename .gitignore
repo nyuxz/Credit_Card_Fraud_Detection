@@ -1,6 +1,17 @@
 # Prerequisites
 *.d
 
+*.csv
+data/
+__pycache__/
+*.py[cod]
+*$py.class
+# System files
+.DS_Store
+__pycache__
+.pyc
+
+
 # Object files
 *.o
 *.ko
